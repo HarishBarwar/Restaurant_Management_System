@@ -1,0 +1,29 @@
+Restaurant Management System
+
+    Description: This project is a Python-based Restaurant Management System that allows users to place food orders, manage food items, handle employee management, and maintain customer records.
+    Features: It includes functionalities such as adding/updating food items, managing employee records, and maintaining customer data. The system provides a user-friendly interface for ordering food and generating bills.
+    Technologies Used: Python, PostgreSQL, Pandas, Tabulate, Termcolor.
+
+Food Add, Update, and Delete Module
+
+    Description: This module is part of the Restaurant Management System and focuses on adding, updating, and deleting food items from the database.
+    Features: It enables users to add new food items, update existing prices, and delete items from the menu. The module provides validation checks to ensure data integrity.
+    Technologies Used: Python, PostgreSQL, Pandas, Tabulate.
+
+Employee Management System
+
+    Description: This Python-based Employee Management System allows users to manage employee records, including adding new employees, updating salaries, and removing employees.
+    Features: It provides functionalities for adding, updating, and removing employee records from the database. The system ensures data consistency and accuracy through validation checks.
+    Technologies Used: Python, PostgreSQL.
+
+Customer Management System
+
+    Description: This module facilitates the management of customer records within the Restaurant Management System. It allows users to add new customers and retrieve customer information.
+    Features: Users can add customer details such as name and phone number, and retrieve customer records from the database. The system ensures data integrity and confidentiality.
+    Technologies Used: Python, PostgreSQL, Pandas.
+
+Sales Data Analysis
+
+    Description: This project involves analyzing sales data stored in a CSV file. It provides functionalities to open and display sales data, enabling users to gain insights into sales performance.
+    Features: Users can open the sales data CSV file and view sales records in tabular format. The project utilizes data manipulation and visualization techniques to present sales information effectively.
+    Technologies Used: Python, Pandas.
