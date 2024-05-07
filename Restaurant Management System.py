@@ -1,11 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Dec  9 20:04:48 2022
-
-@author: Rk verma
-"""
-
-
 class Food_add_upd_del:
     def __init__(self):         # Add update
         sql = "select * from food;"
